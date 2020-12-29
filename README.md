@@ -20,10 +20,15 @@
 
 ## Usage
 
-To test the font automation in notepad, run this command:
+To test the font automation in notepad using *uiautomation* library, run this command:
 
-'''
+```{python}
 python notepad.py
-'''
+```
 
+To test the font automation in notepad using *pywinauto* library, run this command:
+
+```{python}
+python uiapywinauto.py
+```
 
